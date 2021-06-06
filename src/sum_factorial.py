@@ -39,3 +39,4 @@ while summRank > precition:
 print('Сумма ряда = ', result)
 
 print('Вносим изменениея для ветки main')
+print()
