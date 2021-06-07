@@ -106,3 +106,5 @@ for annual in range(3, n + 3 ):
   print(f'Период: {annual} Остаток долга на начало периода: {s} Выплачено процентов: {percent} Выплачено тела кредита: {bodyOfLoan}')
   s -=  bodyOfLoan
 print('Остаток дога: ', s)
+
+print('Изучаем перенос файла в ветку dev.....')
