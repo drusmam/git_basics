@@ -37,3 +37,5 @@ while summRank > precition:
   countRank += 1  
 
 print('Сумма ряда = ', result)
+
+print('Вносим изменениея для ветки main')
