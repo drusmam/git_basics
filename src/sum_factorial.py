@@ -37,4 +37,5 @@ while summRank > precition:
   countRank += 1  
 
 print('Сумма ряда = ', result)
-print('Перенос файла в ветку dev')
+print('1 Перенос файла в ветку dev')
+print('2 Перенос файла в ветку dev')
